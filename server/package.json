@@ -20,8 +20,8 @@
     "update:pkgs": "ncu -u"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "3.328.0",
-    "@aws-sdk/lib-dynamodb": "3.328.0",
+    "@aws-sdk/client-s3": "3.331.0",
+    "@aws-sdk/lib-dynamodb": "3.329.0",
     "aws-xray-sdk": "3.5.0",
     "dayjs": "1.11.7",
     "fs-extra": "11.1.1",
@@ -31,7 +31,7 @@
     "lodash.orderby": "4.6.0",
     "lodash.sortby": "4.7.0",
     "source-map-support": "0.5.21",
-    "undici": "5.22.0",
+    "undici": "5.22.1",
     "uuid": "9.0.0",
     "zod": "3.21.4"
   },

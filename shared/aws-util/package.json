@@ -16,7 +16,7 @@
     "update:pkgs": "ncu -u"
   },
   "devDependencies": {
-    "@aws-sdk/client-ssm": "3.282.0",
-    "@aws-sdk/client-sts": "3.282.0"
+    "@aws-sdk/client-ssm": "3.329.0",
+    "@aws-sdk/client-sts": "3.329.0"
   }
 }
