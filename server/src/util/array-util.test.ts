@@ -1,4 +1,5 @@
 import chunk from 'lodash.chunk';
+import { expect, test } from 'vitest';
 import './array-util';
 
 test('chunkする', () => {
