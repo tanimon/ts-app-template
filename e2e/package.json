@@ -20,13 +20,13 @@
     "update:pkgs": "ncu -u"
   },
   "devDependencies": {
-    "@aws-sdk/client-lambda": "3.329.0",
-    "@aws-sdk/client-s3": "3.331.0",
-    "@aws-sdk/client-ssm": "3.329.0",
-    "@aws-sdk/lib-dynamodb": "3.329.0",
-    "@playwright/test": "1.33.0",
-    "dayjs": "1.11.7",
-    "dotenv": "16.0.3",
-    "undici": "5.22.1"
+    "@aws-sdk/client-lambda": "3.481.0",
+    "@aws-sdk/client-s3": "3.481.0",
+    "@aws-sdk/client-ssm": "3.481.0",
+    "@aws-sdk/lib-dynamodb": "3.481.0",
+    "@playwright/test": "1.40.1",
+    "dayjs": "1.11.10",
+    "dotenv": "16.3.1",
+    "undici": "6.2.1"
   }
 }
