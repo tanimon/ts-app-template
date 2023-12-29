@@ -16,7 +16,7 @@
     "check:spell": "cspell '**/*.{ts,tsx}' --cache --gitignore",
     "fix": "npm run fix -ws && npm run check:spell",
     "sort": "sort-package-json && npm run sort -ws",
-    "update:pkgs": "ncu -u && npm run update:pkgs -ws && npm i"
+    "update:pkgs": "ncu -u && npm run update:pkgs -ws"
   },
   "lint-staged": {
     "**/package.json": [
